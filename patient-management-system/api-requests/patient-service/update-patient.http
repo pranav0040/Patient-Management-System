@@ -1,9 +1,9 @@
-PUT http://localhost:4000/patients/25706f59-aec7-4fbd-8cbc-946089b289d7
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174001
 Content-Type: application/json
 
 {
   "name":"Phantom",
-  "email":"XYZ@gmail.com",
+  "email":"111@gmail.com",
   "address":"Dehradun",
   "dateOfBirth":"1995-04-05"
 
